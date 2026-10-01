@@ -104,6 +104,7 @@ Sichuan Satellite TV (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225
 Sichuan TV Women and Children Channel (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 Tianjin TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 VoA TV China (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -119,4 +120,6 @@ Yanbian Satellite TV (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m
 You Man Cartoon Channel (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 Yunnan Satellite TV (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 Zhejiang International Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 Zhejiang Satellite TV (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
